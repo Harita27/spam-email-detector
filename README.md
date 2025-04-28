@@ -19,7 +19,7 @@ Scikit-learn (sklearn)
 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/spam-email-detector.git
+git clone https://github.com/Harita27/spam-email-detector.git
 
 Navigate into the project folder:
 
@@ -44,7 +44,7 @@ Add text cleaning techniques (like stemming or lemmatization).
 Try different machine learning algorithms or deep learning models.
 
 Author
-Your Name
+Harita M U
 
 License
 This project is licensed under the MIT License.# spam-email-detector
