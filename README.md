@@ -1,4 +1,6 @@
 Spam Email Detector
+
+
 This is a simple machine learning project that detects whether an email (or SMS message) is spam or not.
 It uses Natural Language Processing (NLP) techniques and a basic machine learning model.
 
